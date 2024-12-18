@@ -10,4 +10,4 @@ Scientist at work, wanderlust at heart
 
 Scientist at work, wanderlust at heart
 
-- 🔭 I’m currently working as a PostDoc in Theoretical Particle Physics
+- 🔭 I’m a PostDoc in Theoretical Particle Physics
