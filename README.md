@@ -10,4 +10,5 @@ Scientist at work, wanderlust at heart
 
 Scientist at work, wanderlust at heart
 
-- 🔭 I’m a PostDoc in Theoretical Particle Physics
+- 🔭 I am a postdoctoral researcher.
+- 🔭 I am interested in applying other novel tools, such as machine learning, to my research field.
