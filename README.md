@@ -11,4 +11,4 @@ Scientist at work, wanderlust at heart
 Scientist at work, wanderlust at heart
 
 - 🔭 I am a postdoctoral researcher.
-- 🔭 I am interested in applying novel tools, such as machine learning, to my research field.
+- 🔭 I am interested in applying novel tools, such as deep/machine learning, to my research field.
