@@ -1,14 +1,28 @@
-## Hi there 👋
+# Hi, I'm cwu137 👋
 
-<!--
-**cwu137/cwu137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a postdoctoral researcher in theoretical physics, interested in applying
+machine learning to scientific problems.
 
-Scientist at work, wanderlust at heart
+My interests include quantum machine learning, generative models, and methods
+that connect physics with data-driven modeling.
 
-- 🔭 I’m currently working as a PostDoc in Theoretical Physics
--->
+## Selected Project
 
-Scientist at work, wanderlust at heart
+- [Kaiwu PyTorch Plugin](https://github.com/cwu137/kaiwu-pytorch-plugin) — A
+  PyTorch-based toolkit for Boltzmann-machine models and quantum-inspired
+generative workflows, with examples including Q-VAE and Q-Diffusion.
 
-- 🔭 I am a postdoctoral researcher.
-- 🔭 I am interested in applying novel tools, such as deep/machine learning, to my research field.
+## Research Interests
+
+- Quantum machine learning
+- Deep generative models
+- Scientific machine learning
+- Theoretical physics
+
+## Future Directions
+
+I’m interested in exploring differentiable quantum computing and quantum AI,
+including projects such as [FlagQuantum](https://github.com/cwu137/FlagQuantum).
+
+I’m curious about how physics and machine learning can be combined to address
+scientific problems.
